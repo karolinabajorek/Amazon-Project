@@ -42,7 +42,3 @@ The dataset consisted of 3 tables, including information about subscribers, subs
 * **Introduce a contractual agreement to ensure consistent weekly volumes or caps on weekly volumes** on Europe-Americas priority shipments, especially for highly volatile and voluminous Customer B and, inconsistent Customer A, reducing strain during peak times.
 * **Negotiate a flexible shipping agreement** - where Customers B and A allow shifting some priority shipments to next-day flights during peak times.  
 * **Promote and offer price incentives on alternate lanes where feasible for economy shipments to encourage redistribution of shipments.** This could free up capacity for priority products in the Europe-Americas lane.
-
-## Dashboard
-The dashboard can be found in Tableau Public [here](https://public.tableau.com/app/profile/karolina.bajorek/viz/AmazonPrimeAnalysis_17385937614220/Dashboard32). This dashboard enables users to filter by subscription type, geographical region, and country and focuses on trends and insights on Amazon Prime new subscribers.
-![Dashboard 3 (2)](https://github.com/user-attachments/assets/db34e090-7c21-41f4-a842-df59610d1cc4)
