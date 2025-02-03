@@ -6,7 +6,9 @@ Founded in 1994, Amazon is a global e-commerce and technology company serving mi
 Now that they’ve hired a new data team and are strategizing their approach to new customer acquisition and customer retention, the company would like to build more understanding of customer demographics and products purchased via Prime. Given highly saturated US market, Amazon would like to learn how to effectively allocate their resources in terms of new customer acqusition efforts and improve customer satisfaction on products purchased via Prime. The company has 2 primary objectives: 1) learn how to target subscriber acquisition to maximize Prime revenue, and 2) to raise customer satisfaction on products purchased to prevent churn.
 
 The Jupyter Notebook used to inspect and clean the data for this analysis can be found here [link].
+
 The SQL queries regarding various business questions can be found here [link](https://github.com/karolinabajorek/Amazon-Project/blob/main/amazon_prime.sql).
+
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link](https://public.tableau.com/app/profile/karolina.bajorek/viz/AmazonPrimeAnalysis_17385937614220/Dashboard32).
 
 ## Dataset Structure
