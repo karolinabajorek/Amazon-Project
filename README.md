@@ -1,7 +1,7 @@
 # Amazon Prime - New Subscriber Overview
 ## The goal of this project is to investigate new Amazon Prime subscribers to surface recommendations on efficient customer acquisition strategies across geographies and product selection available via Prime to improve customer satisfaction.
 
-Founded in 1994, Amazon is a global e-commerce and technology company serving millions of customers across the world. It offers a vast range of products, digital streaming, cloud computing, and artificial intelligence services, making it one of the largest online retailers globally. Their customers can sign up Amazon Prime subscription plan available on a monthly and annual basis.
+Founded in 1994, Amazon is a global e-commerce and technology company serving millions of customers across the world. It offers a vast range of products, digital streaming, cloud computing, and artificial intelligence services, making it one of the largest online retailers globally. Their customers can sign up for Amazon Prime subscription plan available on a monthly and annual basis.
 
 Now that they’ve hired a new data team and are strategizing their approach to new customer acquisition and customer retention, the company would like to build more understanding of customer demographics and products purchased via Prime. Given highly saturated US market, Amazon would like to learn how to effectively allocate their resources in terms of new customer acqusition efforts and improve customer satisfaction on products purchased via Prime. The company has 2 primary objectives: 1) learn how to target subscriber acquisition to maximize Prime revenue, and 2) to raise customer satisfaction on products purchased to prevent churn.
 
