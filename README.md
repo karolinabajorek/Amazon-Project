@@ -14,7 +14,8 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 ## Dataset Structure
 The dataset consisted of 3 tables, including information about subscribers, subscription prices and geographical regions.
 
-<img width="624" alt="Screenshot 2025-01-29 at 19 30 26" src="https://github.com/user-attachments/assets/37a871f5-2bbd-4204-bde0-020d8c9e88eb" />
+<img width="639" alt="Screenshot 2025-02-04 at 06 11 59" src="https://github.com/user-attachments/assets/bc14294f-a0a0-4bba-ad7c-09378325c1ca" />
+
 
 ## Insights Summary
 #### In order to evaluate lane performance, I focused on the following key metrics:
