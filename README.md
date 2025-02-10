@@ -13,7 +13,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 ## Data Structure
 The dataset consisted of 3 tables, including information about subscribers, subscription prices and geographical regions.
-The company's main database structure as seen below consists of three tables: subscribers, country, subscription_prices, with a total row count of 50.5k records. A dataset entity relationship diagram is as follows:
+The company's main database structure as seen below consists of three tables: subscribers, countries, subscription_prices, with a total row count of 50.5k records. A dataset entity relationship diagram is as follows:
 
 <img width="639" alt="Screenshot 2025-02-04 at 06 11 59" src="https://github.com/user-attachments/assets/bc14294f-a0a0-4bba-ad7c-09378325c1ca" />
 
